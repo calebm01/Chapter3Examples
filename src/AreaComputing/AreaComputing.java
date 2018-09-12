@@ -5,6 +5,7 @@ import java.util.Scanner;
  * Caleb Mouritsen
  * 9/12/18
  * compute the area of a circle
+ * added this code into git
  */
 
 public class AreaComputing {
